@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tanmay Mishra</h1>
+
 <h3 align="center">A passionate frontend, backend developer from India</h3>
 <h1 align="center">Hi 👋, I'm Tanmay Mishra</h1>
 <h3 align="center">A passionate frontend, backend developer from India</h3>
@@ -6,7 +6,7 @@
 <!-- 🔗 Projects Section -->
 <h2 align="center">📌 My Projects</h2>
 <p align="center">
-  <a href=https://ravishing-attire.vercel.app/" target="_blank">
+  <a href="https://ravishing-attire.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Project%201-blue?style=for-the-badge&logo=github" alt="Boutique Site"/>
   </a>
   <a href="https://astro-frontend-sigma.vercel.app/#" target="_blank">
