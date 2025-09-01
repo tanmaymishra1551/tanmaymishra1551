@@ -7,13 +7,10 @@
 <h2 align="center">📌 My Projects</h2>
 <p align="center">
   <a href=https://ravishing-attire.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Project%201-blue?style=for-the-badge&logo=github" alt="Project 1"/>
+    <img src="https://img.shields.io/badge/Project%201-blue?style=for-the-badge&logo=github" alt="Boutique Site"/>
   </a>
-  <a href="https://github.com/tanmaymishra1551/project2" target="_blank">
-    <img src="https://img.shields.io/badge/Project%202-green?style=for-the-badge&logo=github" alt="Project 2"/>
-  </a>
-  <a href="https://github.com/tanmaymishra1551/project3" target="_blank">
-    <img src="https://img.shields.io/badge/Project%203-orange?style=for-the-badge&logo=github" alt="Project 3"/>
+  <a href="https://astro-frontend-sigma.vercel.app/#" target="_blank">
+    <img src="https://img.shields.io/badge/Project%202-green?style=for-the-badge&logo=github" alt="Astrology Site"/>
   </a>
 </p>
 <br/>
