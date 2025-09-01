@@ -1,6 +1,22 @@
 <h1 align="center">Hi 👋, I'm Tanmay Mishra</h1>
 <h3 align="center">A passionate frontend, backend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Tanmay Mishra</h1>
+<h3 align="center">A passionate frontend, backend developer from India</h3>
 
+<!-- 🔗 Projects Section -->
+<h2 align="center">📌 My Projects</h2>
+<p align="center">
+  <a href=https://ravishing-attire.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Project%201-blue?style=for-the-badge&logo=github" alt="Project 1"/>
+  </a>
+  <a href="https://github.com/tanmaymishra1551/project2" target="_blank">
+    <img src="https://img.shields.io/badge/Project%202-green?style=for-the-badge&logo=github" alt="Project 2"/>
+  </a>
+  <a href="https://github.com/tanmaymishra1551/project3" target="_blank">
+    <img src="https://img.shields.io/badge/Project%203-orange?style=for-the-badge&logo=github" alt="Project 3"/>
+  </a>
+</p>
+<br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmaymishra1551&label=Profile%20views&color=0e75b6&style=flat" alt="tanmaymishra1551" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
